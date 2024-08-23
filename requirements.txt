@@ -1,0 +1,6 @@
+Flask
+openai
+requests
+PyMuPDF
+azure-core
+azure-search-documents
